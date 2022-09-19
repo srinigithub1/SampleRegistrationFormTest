@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10457" started-at="2022-09-19T09:19:01 IST" finished-at="2022-09-19T09:19:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10457" started-at="2022-09-19T09:19:01 IST" finished-at="2022-09-19T09:19:12 IST">
+      <class name="pkg_mavenTestNg.sampleRegistration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="setUp" is-config="true" duration-ms="1312" started-at="2022-09-19T09:19:07 IST" finished-at="2022-09-19T09:19:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="Login" duration-ms="1013" started-at="2022-09-19T09:19:09 IST" finished-at="2022-09-19T09:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="personal_address()[pri:1, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="personal_address" duration-ms="190" started-at="2022-09-19T09:19:10 IST" finished-at="2022-09-19T09:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal_address -->
+        <test-method status="PASS" signature="genderDetails()[pri:2, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="genderDetails" duration-ms="86" started-at="2022-09-19T09:19:10 IST" finished-at="2022-09-19T09:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genderDetails -->
+        <test-method status="PASS" signature="select_city()[pri:3, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="select_city" duration-ms="128" started-at="2022-09-19T09:19:10 IST" finished-at="2022-09-19T09:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_city -->
+        <test-method status="PASS" signature="select_course()[pri:4, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="select_course" duration-ms="124" started-at="2022-09-19T09:19:10 IST" finished-at="2022-09-19T09:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_course -->
+        <test-method status="PASS" signature="select_district()[pri:5, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="select_district" duration-ms="126" started-at="2022-09-19T09:19:10 IST" finished-at="2022-09-19T09:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_district -->
+        <test-method status="PASS" signature="Addressdetails()[pri:6, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="Addressdetails" duration-ms="832" started-at="2022-09-19T09:19:10 IST" finished-at="2022-09-19T09:19:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressdetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pkg_mavenTestNg.sampleRegistration@1786dec2]" name="tearDown" is-config="true" duration-ms="748" started-at="2022-09-19T09:19:11 IST" finished-at="2022-09-19T09:19:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pkg_mavenTestNg.sampleRegistration -->
+      <class name="pkg_mavenTestNg.SaucelabsAutomationTestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="setUp" is-config="true" duration-ms="2801" started-at="2022-09-19T09:19:01 IST" finished-at="2022-09-19T09:19:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="Login" duration-ms="985" started-at="2022-09-19T09:19:04 IST" finished-at="2022-09-19T09:19:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="personal_address()[pri:1, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="personal_address" duration-ms="184" started-at="2022-09-19T09:19:05 IST" finished-at="2022-09-19T09:19:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal_address -->
+        <test-method status="PASS" signature="genderDetails()[pri:2, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="genderDetails" duration-ms="85" started-at="2022-09-19T09:19:05 IST" finished-at="2022-09-19T09:19:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genderDetails -->
+        <test-method status="PASS" signature="select_city()[pri:3, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="select_city" duration-ms="143" started-at="2022-09-19T09:19:05 IST" finished-at="2022-09-19T09:19:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_city -->
+        <test-method status="PASS" signature="select_course()[pri:4, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="select_course" duration-ms="122" started-at="2022-09-19T09:19:06 IST" finished-at="2022-09-19T09:19:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_course -->
+        <test-method status="PASS" signature="select_district()[pri:5, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="select_district" duration-ms="129" started-at="2022-09-19T09:19:06 IST" finished-at="2022-09-19T09:19:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_district -->
+        <test-method status="PASS" signature="Addressdetails()[pri:6, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="Addressdetails" duration-ms="634" started-at="2022-09-19T09:19:06 IST" finished-at="2022-09-19T09:19:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressdetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@3b088d51]" name="tearDown" is-config="true" duration-ms="724" started-at="2022-09-19T09:19:07 IST" finished-at="2022-09-19T09:19:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pkg_mavenTestNg.SaucelabsAutomationTestNGTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
