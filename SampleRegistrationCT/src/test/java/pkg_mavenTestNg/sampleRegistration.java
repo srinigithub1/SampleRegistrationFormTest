@@ -24,7 +24,7 @@ public class sampleRegistration {
   
   @BeforeClass
   public void setUp() {
-	  System.setProperty("webdriver.chrome.driver", "C:\\chromedriver101\\chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
     driver = new ChromeDriver();
 
   }
